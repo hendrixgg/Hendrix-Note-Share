@@ -1,11 +1,11 @@
 ---
 aliases:
   - Chemical Farming
-tags: 
+tags:
+  - health
+  - video
 source: https://www.youtube.com/watch?v=Aw16LPVnNco
-source page: 
-priority: 
-author:
+author: "[[Hendrix Gryspeerdt]]"
 ---
 A video from After Skool youtube channel.
 ## Takeaways

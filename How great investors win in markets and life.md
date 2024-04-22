@@ -6,8 +6,6 @@ tags:
   - investing
   - video
 source: https://youtu.be/zV5QUlUlzrk?si=PBVicJiJNl-x3zZb
-source page: 
-priority: 
 author: "[[Hendrix Gryspeerdt]]"
 ---
 ## My Notes
