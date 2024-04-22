@@ -1,22 +1,22 @@
 ---
 quickshare-date: 2024-04-02 23:43:46
-quickshare-url: "https://noteshare.space/note/cluj9jzyz666701mwye5w5oss#u7QCtV8FWyKJiD5IUxzJ7pxIE4pK2ludDIU/SOphNSE"
+quickshare-url: https://noteshare.space/note/cluj9jzyz666701mwye5w5oss#u7QCtV8FWyKJiD5IUxzJ7pxIE4pK2ludDIU/SOphNSE
 aliases:
   - ted talk about nutrition
   - modern day hunter gatherer diet
 tags:
   - health
   - ted-talk
+  - to/do
 source: https://youtu.be/KLjgBLwH3Wc?si=WSwGs1To7vB8jrps
-source page: 
-priority: 
+priority: 1
 author: "[[Hendrix Gryspeerdt]]"
 ---
 speaker: [[Terry Wahls]]
 
 ted talk from 2011-11-30
 
-Notes:
+## Intro
 - speaker diagnosed with multiple sclerosis (MS)
     - took all kinds of medication
     - use a wheelchair
@@ -62,85 +62,88 @@ Notes:
     - hunter gatherers exceed nutrient RDAs by 2 to 10 fold
     - these diets have more nutrition than all modern "recommended diets"
 - then look at what diet speaker developed
-- summary (all organic of course)
-    - 3 cups of green leaves
-        - dinner plate "heaped high"
-        - rich in: 
-            - b vitamins: protect brain cells and mitochondria
-            - vitamins a, c: support immune cells
-            - vitamin k: blood vessels and bone health
-            - minerals: cofactors for hundred of enzymes in our bodies (cofactors enable the functions of enzymes which do the important reactions in our cells for all body function)
-        - what to eat
-            - two types of kale: most nutrition per calorie of any plant
-            - parsley
-            - "cooked greens"
-            - dehydrated kale chips are good also
-        - greens reduce risk of cataracts and macular degeneration
-    - 3 cups of sulfur rich vegetables
-        - sulfur required for
-            - brain
-            - mitochondria
-            - liver + kidneys for toxin removal from blood
-        - what to eat
-            - "cabbage family" 
-                - cabbage
-                - broccoli
-                - cauliflower
-                - brussels sprouts
-                - turnips
-                - rutabagas
-                - radishes
-                - collards
-                - kale
-            - onion family
-                - onions
-                - garlic
-                - leeks
-                - chives
-                - shallots
-            - mushrooms
-            - asparagus
-    - 3 cups of "bright color"
-        - take 3 different cups of "colors" ever day
-        - colors are fruits/vegetables high in: flavonoids, polyphenols (antioxidants)
-            - required for: retinas, mitocondria, toxin removal 
-        - what to eat:
-            - vegetables:
-                - carrots
-                - beets
-                - peppers
-                - red cabbage
-            - berries + bright colored fruits
-                - peaches
-                - oranges
-                - strawberries
-                - blueberries
-                - razzberries
-                - blackberries
-    - *added in*: high-quality protein
-        - wild fish = omega 3 fatty acids = Myelin and straight teeth + good jaw + larger brain
-            - salmon
-            - herring
-    - grass fed meat
-    - organ meat
-        - concentrated sources in: vitamins, minerals, coenzyme Q
-            - support mitochondria
-        - mentioned
-            - liver
-            - heart
-            - tongue
-            - gizzarsd
-            - sweetbreaks
-        - consume once per week
-    - seaweed
-        - source of: 
-            - iodine:
-                - brain uses for myelin
-                - remove toxins: mercury, lead, other heavy metals
-                - lowers risk of breast + prostate cancer
-            - selenium - didn't mention why this is good
-        - have once per week
-- most americans can't imagin having 9 cups of vegetables + berries + fruits each day
+
+## Daily Diet
+- 3 cups of green leaves
+    - dinner plate "heaped high"
+    - rich in: 
+        - b vitamins: protect brain cells and mitochondria
+        - vitamins a, c: support immune cells
+        - vitamin k: blood vessels and bone health
+        - minerals: cofactors for hundred of enzymes in our bodies (cofactors enable the functions of enzymes which do the important reactions in our cells for all body function)
+    - what to eat
+        - two types of kale: most nutrition per calorie of any plant
+        - parsley
+        - "cooked greens"
+        - dehydrated kale chips are good also
+    - greens reduce risk of cataracts and macular degeneration
+- 3 cups of sulfur rich vegetables
+    - sulfur required for
+        - brain
+        - mitochondria
+        - liver + kidneys for toxin removal from blood
+    - what to eat
+        - "cabbage family" 
+            - cabbage
+            - broccoli
+            - cauliflower
+            - brussels sprouts
+            - turnips
+            - rutabagas
+            - radishes
+            - collards
+            - kale
+        - onion family
+            - onions
+            - garlic
+            - leeks
+            - chives
+            - shallots
+        - mushrooms
+        - asparagus
+- 3 cups of "bright color"
+    - take 3 different cups of "colors" ever day
+    - colors are fruits/vegetables high in: flavonoids, polyphenols (antioxidants)
+        - required for: retinas, mitocondria, toxin removal 
+    - what to eat:
+        - vegetables:
+            - carrots
+            - beets
+            - peppers
+            - red cabbage
+        - berries + bright colored fruits
+            - peaches
+            - oranges
+            - strawberries
+            - blueberries
+            - razzberries
+            - blackberries
+- *added in*: high-quality protein
+    - wild fish = omega 3 fatty acids = Myelin and straight teeth + good jaw + larger brain
+        - salmon
+        - herring
+- grass fed meat
+- organ meat
+    - concentrated sources in: vitamins, minerals, coenzyme Q
+        - support mitochondria
+    - mentioned
+        - liver
+        - heart
+        - tongue
+        - gizzarsd
+        - sweetbreaks
+    - consume once per week
+- seaweed
+    - source of: 
+        - iodine:
+            - brain uses for myelin
+            - remove toxins: mercury, lead, other heavy metals
+            - lowers risk of breast + prostate cancer
+        - selenium - didn't mention why this is good
+    - have once per week
+
+## Closing
+- most Americans can't imagine having 9 cups of vegetables + berries + fruits each day
     - eat all those before eating any grains or potatoes
     - food allergies come from 
         - grains: because of gluten, and
