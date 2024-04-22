@@ -1,0 +1,176 @@
+---
+quickshare-date: 2024-04-02 23:43:46
+quickshare-url: "https://noteshare.space/note/cluj9jzyz666701mwye5w5oss#u7QCtV8FWyKJiD5IUxzJ7pxIE4pK2ludDIU/SOphNSE"
+aliases:
+  - ted talk about nutrition
+  - modern day hunter gatherer diet
+tags:
+  - health
+  - ted-talk
+source: https://youtu.be/KLjgBLwH3Wc?si=WSwGs1To7vB8jrps
+source page: 
+priority: 
+author: "[[Hendrix Gryspeerdt]]"
+---
+speaker: [[Terry Wahls]]
+
+ted talk from 2011-11-30
+
+Notes:
+- speaker diagnosed with multiple sclerosis (MS)
+    - took all kinds of medication
+    - use a wheelchair
+    - then turned to latest related medical research: huntington's, parkinsons, ...
+    - today she is walking and healthy
+- those related diseases had in common: bad mitochondria function in brain
+    - research showed reversing effects on mice taking: fish oil, creatine, co-enzyme Q10
+    - those supplements slowed her decline, but not cured
+- learned more brain cell biology
+    - myelin insulates brain wiring
+    - MS damages myelin
+    - vitamins to improve myelin:
+        - B1 - thiamine
+        - B9 - folate
+        - B12 - cobalamin
+        - Omega 3 fatty acids
+        - Iodine
+    - neurotransmitters between neurons, require: sulur, vitamin B6
+- mitochondria give you energy
+    - lots of chemical reactions for mitochondiral functions
+    - which compounds did you need to consume and how much 
+        - b vitamins
+        - sulfur
+        - antioxidants
+    - it occurred to take these nutrients from foods instead of supplements
+    - there was little literature/information from medical sources or dieticians on contents of those nutrients in food
+        - internet research had the answers
+- now figure out what diet has all these nutrients
+- first look at what americains eat commonly
+    - most people don't eat 1 "full" dinner plates of vegetables per day, let alone 2 or 3 as the speaker consumes
+    - showing what an american family eats
+    - % americans below recommended daily allowance of vital nutrients
+        - these nutrients form the building blocks to vital chemical reactions from mitochondria
+        - lacking these building blocks results in
+            - chronic disease
+            - children born with jaws that are too small - leading to crooked teeth and small brains
+            - why blood vessels become stiff as you age
+            - 1/3 american children, 1/2 africanamerican/hispanic get diabetes as children
+- looking and 2.5 million years ago
+    - paleo diet
+    - hunter gathers
+    - organic
+    - hunter gatherers exceed nutrient RDAs by 2 to 10 fold
+    - these diets have more nutrition than all modern "recommended diets"
+- then look at what diet speaker developed
+- summary (all organic of course)
+    - 3 cups of green leaves
+        - dinner plate "heaped high"
+        - rich in: 
+            - b vitamins: protect brain cells and mitochondria
+            - vitamins a, c: support immune cells
+            - vitamin k: blood vessels and bone health
+            - minerals: cofactors for hundred of enzymes in our bodies (cofactors enable the functions of enzymes which do the important reactions in our cells for all body function)
+        - what to eat
+            - two types of kale: most nutrition per calorie of any plant
+            - parsley
+            - "cooked greens"
+            - dehydrated kale chips are good also
+        - greens reduce risk of cataracts and macular degeneration
+    - 3 cups of sulfur rich vegetables
+        - sulfur required for
+            - brain
+            - mitochondria
+            - liver + kidneys for toxin removal from blood
+        - what to eat
+            - "cabbage family" 
+                - cabbage
+                - broccoli
+                - cauliflower
+                - brussels sprouts
+                - turnips
+                - rutabagas
+                - radishes
+                - collards
+                - kale
+            - onion family
+                - onions
+                - garlic
+                - leeks
+                - chives
+                - shallots
+            - mushrooms
+            - asparagus
+    - 3 cups of "bright color"
+        - take 3 different cups of "colors" ever day
+        - colors are fruits/vegetables high in: flavonoids, polyphenols (antioxidants)
+            - required for: retinas, mitocondria, toxin removal 
+        - what to eat:
+            - vegetables:
+                - carrots
+                - beets
+                - peppers
+                - red cabbage
+            - berries + bright colored fruits
+                - peaches
+                - oranges
+                - strawberries
+                - blueberries
+                - razzberries
+                - blackberries
+    - *added in*: high-quality protein
+        - wild fish = omega 3 fatty acids = Myelin and straight teeth + good jaw + larger brain
+            - salmon
+            - herring
+    - grass fed meat
+    - organ meat
+        - concentrated sources in: vitamins, minerals, coenzyme Q
+            - support mitochondria
+        - mentioned
+            - liver
+            - heart
+            - tongue
+            - gizzarsd
+            - sweetbreaks
+        - consume once per week
+    - seaweed
+        - source of: 
+            - iodine:
+                - brain uses for myelin
+                - remove toxins: mercury, lead, other heavy metals
+                - lowers risk of breast + prostate cancer
+            - selenium - didn't mention why this is good
+        - have once per week
+- most americans can't imagin having 9 cups of vegetables + berries + fruits each day
+    - eat all those before eating any grains or potatoes
+    - food allergies come from 
+        - grains: because of gluten, and
+        - dairy: because of casein protein
+    - these allergies are related to (including but not limited to):
+        - eczema
+        - asthma
+        - allergies
+        - infertility
+        - irritable bowel
+        - fibromyalgia
+        - chronic fatigue
+        - arthritis
+        - chronic headache
+        - neurological problems
+        - behaviour problems
+- eating this diet is expensive
+    - you will pay the price now for healthy food that will restore your health and vitality
+    - or pay the price in doctor visits, prescription drugs, surgeries, missed time from work, early retirement, nursing home care
+- referring back to how bad speaker was before designing this diet
+    - 3 months: reduce from 2 canes to 1
+    - 4 months: walk throughout hospital no cane
+    - 5 months: rode bike for the first time in a decade around block
+    - 9 months: rode bike 18 miles
+    - 1 year: trail ride on horses in canadian rockies
+- speaker will continue to research this diet and her findings through clinical trials
+    - results will be posted to 2011 Neuroscience convention
+    - her scientific articles: https://terrywahls.com/news/articles/
+    - how to support her work: https://www.thewahlsfoundation.com/the-wahls-foundation-and-how-you-may-support-us/
+    - 
+- challenge people to become "modern day hunter gatherers"
+    - eat for your mitochondria
+- what will your choice be?
