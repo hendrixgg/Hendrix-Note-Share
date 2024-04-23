@@ -63,9 +63,9 @@ ted talk from 2011-11-30
     - these diets have more nutrition than all modern "recommended diets"
 - then look at what diet speaker developed
 
-## Daily Diet
+## Daily Diet with reasons
 - 3 cups of green leaves
-    - dinner plate "heaped high"
+    - a dinner plate "heaped high"
     - rich in: 
         - b vitamins: protect brain cells and mitochondria
         - vitamins a, c: support immune cells
@@ -130,8 +130,8 @@ ted talk from 2011-11-30
         - liver
         - heart
         - tongue
-        - gizzarsd
-        - sweetbreaks
+        - gizzards
+        - sweetbreads
     - consume once per week
 - seaweed
     - source of: 
@@ -141,6 +141,59 @@ ted talk from 2011-11-30
             - lowers risk of breast + prostate cancer
         - selenium - didn't mention why this is good
     - have once per week
+
+## Diet what to eat
+- 3 cups of green leaves (a dinner plate "heaped high")
+    - two types of kale: most nutrition per calorie of any plant
+    - parsley
+    - "cooked greens"
+    - dehydrated kale chips can be good
+- 3 cups of sulfur rich vegetables
+    - "cabbage family" 
+        - cabbage
+        - broccoli
+        - cauliflower
+        - brussels sprouts
+        - turnips
+        - rutabagas
+        - radishes
+        - collards
+        - kale
+    - onion family
+        - onions
+        - garlic
+        - leeks
+        - chives
+        - shallots
+    - mushrooms
+    - asparagus
+- 3 cups of "bright color"
+    - vegetables:
+        - carrots
+        - beets
+        - peppers
+        - red cabbage
+    - berries + bright colored fruits
+        - peaches
+        - oranges
+        - strawberries
+        - blueberries
+        - razzberries
+        - blackberries
+- *added in*: high-quality protein
+    - wild fish = omega 3 fatty acids = Myelin and straight teeth + good jaw + larger brain
+        - salmon
+        - herring
+- grass fed meat
+- eat organ meats once per week, these are what was mentioned (but other organ meats are good too)
+    - liver
+    - heart
+    - tongue
+    - gizzards
+    - sweetbreads
+- seaweed
+    - have once per week
+
 
 ## Closing
 - most Americans can't imagine having 9 cups of vegetables + berries + fruits each day
