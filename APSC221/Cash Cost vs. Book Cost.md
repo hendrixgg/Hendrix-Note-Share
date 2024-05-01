@@ -12,4 +12,3 @@ noncash cost = ***book cost***
 - represent the recovery of past expenditures over a fixed period of time
 - examples:
     - depreciation
-    - 
