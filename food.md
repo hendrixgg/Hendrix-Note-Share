@@ -54,10 +54,7 @@ primarily sourced from [[Minding your mitochondria - Tedx Talk]]
 - grass fed beef
     - [[eye of round roast]]
     - Easy health food store - bloor lansdown
-    - Gasparro’s
-    - Beretta farms in Caledon - super expensive compared to doublejay farms
-    - Balderson cheese
-    - Andy boy lettuce
+    - Andy boy romaine lettuce
 - organ meats
     - liver
     - heart
