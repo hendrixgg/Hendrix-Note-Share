@@ -6,7 +6,9 @@ source page: 21
 priority: 
 author: "[[Hendrix Gryspeerdt]]"
 ---
-A cost that occurred in the past and has no relevance to estimates of future costs and revenues related to an alternative course of action.
+Cost that has no technical relevance in decision making.
+
+A cost that occurred in the past and has no relevance to future decision.
 
 A cost that is common to all alternative (future) decisions.
 

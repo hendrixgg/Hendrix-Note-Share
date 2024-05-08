@@ -6,5 +6,8 @@ source page: 21
 priority: 
 author: "[[Hendrix Gryspeerdt]]"
 ---
-Cost of the forgone opportunity. Often hidden or implied.
+Cost of the forgone opportunity.
 
+Cost incurred due to directing limited resources to a specific course of action.
+
+Cost associated with decisions limiting potential future opportunities.

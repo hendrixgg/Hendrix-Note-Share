@@ -24,6 +24,7 @@ max profit: $D^* = \frac{a - c_v}{2b}$
 breakeven: $-bD^2 + (a-c_v)D - C_F = 0$ (solve quadratic)
 
 ![[Pasted image 20240423135341.png]]
+This is used to model high-cost businesses, usually niche and specialized businesses.
 #### Scenario 2 Demand and Price are Independent
 $p$ is an independent variable and $p > c_v$ .
 

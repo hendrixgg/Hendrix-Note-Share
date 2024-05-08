@@ -17,3 +17,5 @@ Price demand is being modeled linearly based on the selling price of the product
 
 > Note that this is not how demand works in practice, as it is often a non-linear relationship where a linear decrease in price correlates with an exponential increase in demand. The linear model is accurate for locally small changes in price. (My added note)
 
+better graph
+![[Pasted image 20240508072512.png]]

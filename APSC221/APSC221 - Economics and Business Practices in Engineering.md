@@ -13,14 +13,38 @@ priority:
 author:
 ---
 # APSC221 Tasks
-- await release of course info on OnQ
-- [ ] create checklist from syllabus
+- await release of course info on OnQ 
 ![[APSC221_week1#Week 1 Tasks]]
+- [ ] Graded Tasks complete 100%
+    - [ ] onQ quizzes 17%
+        - [ ] quiz 1
+        - [ ] quiz 2 
+        - [ ] quiz 3 
+        - [ ] quiz 4 
+        - [ ] quiz 5 
+        - [ ] quiz 6 
+        - [ ] quiz 7 
+        - [ ] quiz 8 
+        - [ ] quiz 9 
+        - [ ] quiz 10 
+        - [ ] quiz 11 
+        - [ ] quiz 12 
+        - [ ] quiz 13 
+        - [ ] quiz 14 
+        - [ ] quiz 15 
+        - [ ] quiz 16 
+        - [ ] quiz 17
+    - [ ] Assignments 20%
+        - [ ] [[APSC221 Assignment 1|assignment 1]] 5%
+        - [ ] [[APSC221 Assignment 2|assignment 2]] 5%
+        - [ ] [[APSC221 Assignment 3|assignment 3]] 10%
+    - [ ] Midterm 15%
+    - [ ] Final Exam 48%
 
 # Organized Topics
 [[(APSC221) Jan Sneep - Economics & Business Practices in Engineering.pdf|Textbook]]
-[[|Syllabus]]
-google drive: https://drive.google.com/drive/folders/0B96H4POjnx2hVUp3ejV5UG1tOVk?resourcekey=0-cJBaGAjOSEP1L6nb-QMq6g
+[[APSC221 - Course Outline - 2024S.pdf|Syllabus]]
+[Google Drive](https://drive.google.com/drive/folders/1uVeffci4fFixWU3e_QFzV-h6OH6rhz6a)
 #### From 2023 Exam Structure
 [[Cost Estimation]]
 [[Cash Flow Analysis]]
@@ -111,6 +135,7 @@ google drive: https://drive.google.com/drive/folders/0B96H4POjnx2hVUp3ejV5UG1tOV
 [[APSC221_week12]]
 # Exam
 [[APSC221 Exam Formula Sheet Fall 2014.pdf]]
+google drive: https://drive.google.com/drive/folders/0B96H4POjnx2hVUp3ejV5UG1tOVk?resourcekey=0-cJBaGAjOSEP1L6nb-QMq6g
 find more exams: https://qspace.library.queensu.ca/browse/title?bbm.page=1&startsWith=APSC221
 #### With Solutions
 - [[APSC_221_Winter2013_Exam.pdf]], [[APSC_221_Winter2013_Exam_Solution.pdf]]
