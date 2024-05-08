@@ -10,10 +10,10 @@ author:
 ### Week 1 Tasks
 - [x] intro lecture
 - [x] course checklist from syllabus
-- [ ] complete chapter 1 in textbook
+- [x] complete chapter 1 in textbook
 - [ ] Complete chapter 2 in textbook
 - [ ] Complete chapter 3 in textbook
-- [ ] complete quiz 1
+- [x] complete quiz 1
 - [ ] complete quiz 2
 - [ ] complete quiz 3
 

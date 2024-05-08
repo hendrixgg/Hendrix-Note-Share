@@ -15,9 +15,9 @@ author:
 # APSC221 Tasks
 - await release of course info on OnQ 
 ![[APSC221_week1#Week 1 Tasks]]
-- [ ] Graded Tasks complete 100%
-    - [ ] onQ quizzes 17%
-        - [ ] quiz 1
+- [ ] Graded Tasks complete 1/100%
+    - [ ] onQ quizzes 1/17%
+        - [x] quiz 1 1%
         - [ ] quiz 2 
         - [ ] quiz 3 
         - [ ] quiz 4 
@@ -34,12 +34,12 @@ author:
         - [ ] quiz 15 
         - [ ] quiz 16 
         - [ ] quiz 17
-    - [ ] Assignments 20%
-        - [ ] [[APSC221 Assignment 1|assignment 1]] 5%
-        - [ ] [[APSC221 Assignment 2|assignment 2]] 5%
-        - [ ] [[APSC221 Assignment 3|assignment 3]] 10%
-    - [ ] Midterm 15%
-    - [ ] Final Exam 48%
+    - [ ] Assignments 0/20%
+        - [ ] [[APSC221 Assignment 1|assignment 1]] 0/5%
+        - [ ] [[APSC221 Assignment 2|assignment 2]] 0/5%
+        - [ ] [[APSC221 Assignment 3|assignment 3]] 0/10%
+    - [ ] Midterm 0/15%
+    - [ ] Final Exam 0/48%
 
 # Organized Topics
 [[(APSC221) Jan Sneep - Economics & Business Practices in Engineering.pdf|Textbook]]
