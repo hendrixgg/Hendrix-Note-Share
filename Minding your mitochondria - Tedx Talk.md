@@ -1,6 +1,4 @@
 ---
-quickshare-date: 2024-04-02 23:43:46
-quickshare-url: https://noteshare.space/note/cluj9jzyz666701mwye5w5oss#u7QCtV8FWyKJiD5IUxzJ7pxIE4pK2ludDIU/SOphNSE
 aliases:
   - ted talk about nutrition
   - modern day hunter gatherer diet
