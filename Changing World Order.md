@@ -87,7 +87,7 @@ Overview
 
 More complete
 
-![[Pasted image 20240501201215.png]]
+![[attachments/Pasted image 20240501201215.png]]
 
 
 ## full book

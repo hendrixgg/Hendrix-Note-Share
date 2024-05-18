@@ -1,0 +1,1 @@
+when you can exchange one cash flow for another in a market for zero cost

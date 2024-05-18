@@ -14,14 +14,14 @@ author:
 ---
 # APSC221 Tasks
 - await release of course info on OnQ 
-![[APSC221_week1#Week 1 Tasks]]
+![[APSC221_week2#Week 2 Tasks]]
 - [ ] Graded Tasks complete 1/100%
-    - [ ] onQ quizzes 1/17%
-        - [x] quiz 1 1%
-        - [ ] quiz 2 
-        - [ ] quiz 3 
-        - [ ] quiz 4 
-        - [ ] quiz 5 
+    - [ ] onQ quizzes 4.633/17%
+        - [x] quiz 1 1/1%
+        - [x] quiz 2 0.8/1%
+        - [x] quiz 3 1/1%
+        - [x] quiz 4 1/1%
+        - [x] quiz 5 0.833/1%
         - [ ] quiz 6 
         - [ ] quiz 7 
         - [ ] quiz 8 
@@ -42,7 +42,7 @@ author:
     - [ ] Final Exam 0/48%
 
 # Organized Topics
-[[(APSC221) Jan Sneep - Economics & Business Practices in Engineering.pdf|Textbook]]
+[[(APSC221) Jan Sneep - Economics & Business Practices in Engineering.pdf|Textbook (old)]], [[(APSC221) Economics & Business Practices in Engineering - 2022 version.pdf|Textbook (new)]]
 [[APSC221 - Course Outline - 2024S.pdf|Syllabus]]
 [Google Drive](https://drive.google.com/drive/folders/1uVeffci4fFixWU3e_QFzV-h6OH6rhz6a)
 #### From 2023 Exam Structure
@@ -94,7 +94,7 @@ author:
         - [[Work Breakdown Structure]]
         - [[Cost and Revenue Structure]]
         - [[Estimating Techniques (Models)]]
-    - 2.3 [[Selecting Estimating Techniques]]
+    - 2.3 [[Selected Estimating Techniques]]
         - [[Indexes]]
         - [[Unit Technique]]
         - [[Factor Technique]]
@@ -108,7 +108,33 @@ author:
     - 2.8 [[Chapter 2 - Try Your Skills]]
     - 2.9 [[Chapter 2 Summary]]
 - [[Chapter 3 - Time Value of Money]]
+    - 3.2 [[Interest and Interest Rates]]
+    - 3.3 [[Compound and Simple Interest]]
+        - 3.3.1 [[Compound Interest]]
+        - 3.3.2 [[Simple Interest]]
+    - 3.4 [[Effective and Nominal Interest Rates]]
+    - 3.5 [[Continuous Compounding]]
+    - 3.6 [[Cash Flow Diagrams]]
+    - 3.7 [[Depreciation]]
+        - 3.7.1[[Reasons for Depreciation]]
+        - 3.7.2 [[Value of an Asset]]
+        - 3.7.3 [[Straight-Line Depreciation]]
+        - 3.7.4 [[Declining Balance Depreciation]]
+    - 3.8 [[Equivalence]]
+        - 3.8.1 [[Mathematical Equivalence]] 
+        - 3.8.2 [[Decisional Equivalence]] 
+        - 3.8.3 [[Market Equivalence]]
+    - [[Chapter 3 - Review Problems]]
+    - [[Chapter 3 Summary]]
 - [[Chapter 4 - Cash Flow Analysis]]
+    - 4.1 [[Timing of Cash Flows and Modelling]]
+    - 4.2 [[Compound Interest Factors for Discrete Compounding]]
+    - 4.3 [[ Compound Interest Factors for Single Disbursements or Receipts]]
+    - 4.4 [[Compound Interest Factors for Annuities]]
+    - 4.5 [[Conversion Factor for Arithmetic Gradient Series]]
+    - 4.6 [[Conversion Factors for Geometric Gradient Series]]
+    - 4.7 [[Non-Standard Annuities and Gradients]]
+    - 4.8 [[Present Worth of Infinite Cash Flow Series]]
 - [[Chapter 5,6 - Comparison Methods]]
 - [[Chapter 7 - Taxes]]
 - [[Chapter 8 - Replacement Decisions]]

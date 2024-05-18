@@ -1,0 +1,1 @@
+when the decision maker is indifferent between two different options

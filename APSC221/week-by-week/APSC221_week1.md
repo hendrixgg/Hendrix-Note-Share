@@ -10,12 +10,15 @@ author:
 ### Week 1 Tasks
 - [x] intro lecture
 - [x] course checklist from syllabus
+- [x] lecture video 1
 - [x] complete chapter 1 in textbook
-- [ ] Complete chapter 2 in textbook
-- [ ] Complete chapter 3 in textbook
+- [x] lecture video 2
+- [x] Complete chapter 2 in textbook
+- [x] lecture video 3
+- [x] Complete chapter 3 in textbook
 - [x] complete quiz 1
-- [ ] complete quiz 2
-- [ ] complete quiz 3
+- [x] complete quiz 2
+- [x] complete quiz 3
 
 ### Lecture Notes
 #### Lecture 0
@@ -74,5 +77,6 @@ author:
 
 #### Lecture 2
 [[2-Cost Estimation Techniques.pptx]]
+
 #### Lecture 3
 [[3-Time Value of Money.pptx]]
