@@ -35,7 +35,11 @@ author:
         - [ ] quiz 16 
         - [ ] quiz 17
     - [ ] Assignments 0/20%
-        - [ ] [[APSC221 Assignment 1|assignment 1]] 0/5%
+        - [ ] [[APSC221 Assignment 1|assignment 1]] 0/5% (0/30)
+            - [ ] [[APSC221 Assignment 1 Question 1|Q1]] 
+            - [ ] [[APSC221 Assignment 1 Question 2|Q2]]
+            - [ ] [[APSC221 Assignment 1 Question 3|Q3]]
+            - [ ] [[
         - [ ] [[APSC221 Assignment 2|assignment 2]] 0/5%
         - [ ] [[APSC221 Assignment 3|assignment 3]] 0/10%
     - [ ] Midterm 0/15%
