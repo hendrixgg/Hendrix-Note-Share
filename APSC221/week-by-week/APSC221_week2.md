@@ -13,11 +13,9 @@ author:
 - [x] quiz on chapter 4
 - [ ] chapter 5 lecture video
 - [ ] chapter 5 textbook
-- [ ] quiz on chapter 5
+- [x] quiz on chapter 5
 
 ### Lecture Notes
 #### Lecture 1
 
 #### Lecture 2
-
-#### Lecture 3

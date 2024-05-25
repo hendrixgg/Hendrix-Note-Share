@@ -32,7 +32,7 @@ Basic tool of [[Project Management]].
     - materials
     - procurement of resources
     - manufacturing/construction
-- The content and resource requirements for a [[work element]] are the sum of the activities and the resource requirements of related [[Work Element|subelements]] below it
+- The content and resource requirements for a [[Work Element]] are the sum of the activities and the resource requirements of related [[Work Element|subelements]] below it
 - A project WBS typically includes both recurring and nonrecurring [[Work Element|work elements]].
 
 ## How to Create

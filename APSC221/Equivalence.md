@@ -6,9 +6,9 @@ source page:
 priority: 
 author:
 ---
--  condition that exists when the value of a cost at one time is equivalent to the value of the related benefit received at a different time
+Condition that exists when the value of a cost at one time is equivalent to the value of the related benefit received at a different time
 
-types of equivalence
+Types of equivalence
 - [[Mathematical Equivalence]]
 - [[Decisional Equivalence]]
 - [[Market Equivalence]]

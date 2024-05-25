@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Cash Flows
+  - Cash Flow Patterns
 tags: 
 source: "[[(APSC221) Economics & Business Practices in Engineering - 2022 version.pdf#page=105&selection=3,1,4,18|(APSC221) Economics & Business Practices in Engineering - 2022 version, page 105]]"
 source page: 
@@ -16,3 +18,12 @@ Sometimes, seeing the pattern of cash flows in the completed diagram gives a bet
 1. Cash flows occur at the end of a period.
 2. End of Period $i$ is the start of Period $i+1$.
 3. "Now" is Time Zero ("0")
+
+## Common Cash Flow Patterns
+1. [[Single Disbursements or Receipts]]
+2. [[Annuities]]
+3. [[Arithmetic Gradient Series]]
+4. [[Geometric Gradient Series]]
+
+## Source
+![[(APSC221) Economics & Business Practices in Engineering - 2022 version.pdf#page=105&selection=3,1,4,18|(APSC221) Economics & Business Practices in Engineering - 2022 version, page 105]]

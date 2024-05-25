@@ -1,1 +1,10 @@
-see [[Compound and Simple Interest#Compound Interest]]
+---
+aliases:
+  - compounding
+tags: 
+source: 
+source page: 
+priority: 
+author:
+---
+![[Compound and Simple Interest#Compound Interest]]
