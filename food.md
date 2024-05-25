@@ -11,6 +11,10 @@ primarily sourced from [[Minding your mitochondria - Tedx Talk]]
 find good food sources:
 - https://www.eatwild.com/
 - https://www.realmilk.com/
+- Farmers markets in toronto
+- [[Grocery List]]
+- photos of food items on cellphone
+- kefir at sweet potato in glass jar
 - 
 
 ## "Green Leaves" (3 cups)
