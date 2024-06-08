@@ -5,13 +5,12 @@ tags:
 source: 
 source page: 
 priority: 
-author:
+author: "[[Hendrix Gryspeerdt]]"
+aligned_to:
+  - "[[1.1.1.1 Nourish Yourself]]"
 ---
+[[Health Research Kanban]]
 # To Incorporate
-- [[important topics#Health Products]]
-- [[food]]
-- [[Health Hacks]]
-- [[Caffeine]]
 - physical
     - [[Anime Shreds]]
     - [[Recovery Exercises]]

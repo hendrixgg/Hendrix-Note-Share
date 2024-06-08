@@ -7,7 +7,7 @@ source page:
 priority: 
 author: "[[Hendrix Gryspeerdt]]"
 ---
-# What does it tell you
+## What does it tell you
 - sleep: how good your sleep was (quality)
     - gives recommendations on when you should go to sleep
     - has an alarm functionality for waking up
@@ -19,6 +19,12 @@ author: "[[Hendrix Gryspeerdt]]"
 - how much sleep you should get and when to go to sleep
 - how good your sleep was + what to change to improve sleep
 
-# Referral link to get extra 1 month free
+## Referral link to get extra 1 month free
 Get a free WHOOP 4.0 and one month free when you join with my link: https://join.whoop.com/460CCF
 
+## Reasons to keep
+decision: yes
+- it's easier to maintain good habits
+    - because it tracks how you are doing
+    - and you can know how you are doing
+- 

@@ -38,19 +38,20 @@ Every time you prove/disprove a scientific hypothesis using observations from em
 
 why trust your reasoning:
 - Darwin doubted it, considering he wouldn’t trust a monkey
-- I would say, there is no other reason not to trust your own mind because trusting it works (predictions of how things work based on laws can be true) and it gives you more confidence/power. Perhaps you get that power/confidence from God?
+- I would say, trusting it works (predictions of how things act based on laws can be true) and it gives you more confidence/power. Perhaps you get that power/confidence from God?
 
 Why we say science is good:
-- taken for grabted
+- taken for granted
 - speaker implies that understanding the universe does not help you multiply or reproduce 
 	- I would argue that it does because you can make more informed decisions that increase longevity or other aspects of security
+	- If you know more, you can travel outside solars system and become resistant to earth catastrophes.
 	- This is unclear
 - I say this comes from the desire to create. To be able to create, we must know how things work so that the creation can work
 
 ## foundational hypothesis
 If we are right about what the universe is and about what we are and about the value of knowledge, then we will be able to figure [insert scientific hypothesis] out.
 
-Every time you confirm/disconfirm scientific hypothesis then you are confirming the vice hypothesis.
+Every time you confirm/disconfirm scientific hypothesis then you are confirming the foundational hypothesis.
 
 ## dis confirmation of naturalism
 If the 3 foundational principles contradict naturalism, and those principles are verified by proving/disproving a scientific hypothesis, then every scientific hypothesis ever tested is evidence required for disconfirmation of naturalism. This would imply that no other scientific hypothesis has more disconfirmation than naturalism.
