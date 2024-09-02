@@ -7,6 +7,21 @@ source page:
 priority: 
 author:
 ---
+Properties:
+- product categories (ingredient, meal, )
+- ready to eat?
+- food categories (meat, starch, fruit/veg, seasoning, nuts/legumes, dairy, eggs, etc.)
+- utility name (name of how it is used in cooking or eating) (ex: flour)
+- food Detail (some extra properties about the kind of item, freshness, how long in shelf, mold, dirt, contamination, pesticides, organic certification) (ex: enriched whole grain wheat flour)
+- Nutrition facts (calories, macronutrients, micronutrients)
+- Ingredients list (include amounts if possible)
+- Brand name
+- food producer (farm/restaurant/shop)
+- $/kg
+- $/L
+- purchase detail (extra properties about purchase, minimum and maximum quantities, packaging, delivery method, distributer, etc.)
+- purchase location (farm/restaurant/shop)
+- Date updated (date purchased or confirmed availability)
 
 list of healthy items primarily sourced from [[Minding your mitochondria - Tedx Talk]]
 ## "Green Leaves" (3 cups)

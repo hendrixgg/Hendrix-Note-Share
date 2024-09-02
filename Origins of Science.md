@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Scientific method
 tags:
   - to/do
 source: 
@@ -44,7 +45,7 @@ Why we say science is good:
 - taken for granted
 - speaker implies that understanding the universe does not help you multiply or reproduce 
 	- I would argue that it does because you can make more informed decisions that increase longevity or other aspects of security
-	- If you know more, you can travel outside solars system and become resistant to earth catastrophes.
+	- If you know more, you can travel outside the solar system and become resistant to earth catastrophes.
 	- This is unclear
 - I say this comes from the desire to create. To be able to create, we must know how things work so that the creation can work
 

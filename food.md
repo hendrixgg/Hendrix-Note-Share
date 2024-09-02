@@ -19,7 +19,11 @@ author: "[[Hendrix Gryspeerdt]]"
 find good food sources:
 - https://www.eatwild.com/
 - https://www.realmilk.com/
-- 
+- https://nuthut.ca
+    - see email
+        - subject: "Fwd: Cacao nibs"
+        - to: hendrixg10@gmail.com
+        - from: maximusg101@gmail.com
 - Farmers markets in toronto
 - [[Grocery List]]
 - photos of food items on cellphone
@@ -27,6 +31,27 @@ find good food sources:
 - https://fredsbread.ca
 
 ## To consolidate 
+- Hope Eco Farms Eggs from Aylmer Ontario
+- spices containing toxins: https://www.consumerreports.org/health/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead-a6246621494/
+- Canada organic Kirkland coconut water
+- bourekas (Jewish)
+- Chollent (Jewish)
+- Patchwork Gardens Battersea Ontario patchworkgardens.ca
+	- Canada organic pea shoots
+- from max in picton (Vickie’s veggies)
+	- The Elmbrook Farm bagels and bread
+	- Pennies pantry for seasonings, spices, dried goods, Dairy
+- from bellville
+	- primal growth microgreens
+	- https://www.primalgrowth.ca/about-primal-growth-farm-nursery
+	- Looks pretty good
+	- No indication that pesticides are not used, however, they are grown indoors and the founder mentions not having to deal with any pests (weeds/bugs) which indicates a lack of need for pesticides
+- spinach and other high oxalate foods:
+	- https://medium.com/@jj_virgin/the-dark-side-of-spinach-what-you-need-to-know-about-oxalates-dd7c34e5e6ac
+	- Seems like it’s fine if you don’t have leaky gut, balance with other foods, gut bacteria can break down oxalates
+	- cooking/soaking high oxalate foods can reduce oxalate amounts (also reduces other nutrients)
+- Chicken selective breeding in North America that makes them so fat that they can’t live longer than 10 weeks, even if super natural. Not sure if this makes them low nutrients or bad for you, figure out
+- Howick community farmers
 plastic in food
 getting good food sources: (organic)
 - list of brands that sell foods in stores 

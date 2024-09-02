@@ -10,6 +10,6 @@ source page:
 priority: 
 author:
 ---
-Only delivers to areas near [[Kingston, Ontario]].
+Only delivers to areas near [[Kingston Ontario]].
 
 Super good stuff. Prices are reasonable.

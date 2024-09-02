@@ -243,3 +243,11 @@ Summary:
 	- Feeling fantastic 
 	- S
 	- Keep accelerating body to use its resources and not borrow from the future
+
+## Question 3
+What is Gary Brecka about
+
+## Answer 3
+His podcast with [[Joe Rogan]]: [[JRE2060]].
+
+

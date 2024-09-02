@@ -1,5 +1,17 @@
 # To consolidate 
+- [Research Data Management Fathom notes and recording](https://fathom.video/share/p5wcdzDMjy6uMswdByeWMBqJKNQ-rm-j)
 - [[2024-COSS-IntroARC_Recording Posted]]
+- [[2024-COSS-AIShow_Recording Posted]]
+- [[2024-COSS-AITools_Recording Posted]]
+- [[2024-COSS-Commons_Attendance Certificates]]
+- [Research Data Management Fathom notes and recording](https://fathom.video/share/p5wcdzDMjy6uMswdByeWMBqJKNQ-rm-j)
+- [[2024-COSS-AIShow_Recording Posted]]
+- [[2024-COSS-AITools_Recording Posted]]
+- [[2024-COSS-Commons_Attendance Certificates]]
+- [[2024-COSS-ANN_ Artificial Neural Networks (Deep Learning) Course Starts At 9 A.M. EDT]]
+- [[2024-COSS-ANN_ Recording Posted…]]
+- [[2024-COSS-ANN_ All Recordings Have Been Posted...]]
+- 
 # Course List
 ## [[Introduction to Linux shell]]
 Running programs on the supercomputers is done via the BASH shell. This course is two three hour live demos on using bash. No prior familiarity with bash is assumed. In addition to the basics of getting around, globbing, regular expressions, redirection, pipes, and scripting will be covered. A series of exercises are required to be done in order to complete the course.
