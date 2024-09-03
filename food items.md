@@ -24,6 +24,9 @@ Properties:
 - Date updated (date purchased or confirmed availability)
 
 list of healthy items primarily sourced from [[Minding your mitochondria - Tedx Talk]]
+
+## Don’t buy
+- Fresh Attitude Canada Organic Arugula from [[Costco]], multiple times it has been purchased 7 days in advance of the best before date and opened on that day it has already gone bad
 ## "Green Leaves" (3 cups)
 ### Raw items
 - [[kale]]
