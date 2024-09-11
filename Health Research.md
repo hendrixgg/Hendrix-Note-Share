@@ -17,6 +17,9 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- [[Dental Health]]
+- [[Improve Facial Bone Structure]]
+- [[Paul Saladino]] Peroxidation point for cooking oils
 - [Why everybody should fast - Fasting science](https://www.youtube.com/watch?v=weVDy7EkQHw) ([[Youtube]] video)
 - interview to add to [[Calley Means]] (https://m.youtube.com/watch?v=ImvX3avAlM4)
 - [[Allison Gryspeerdt|Mom]]’s high school friend (see email to hendrixg10@gmail.com): 
