@@ -12,7 +12,7 @@ aligned_to:
 [[Health Research Kanban]]
 
 Why want “healthy” or “high quality foods“: 
-- if you assume that the higher quality, more expensive food provides you with more nutrients and fewer toxins (for the same amount of macronutrients/calories), then to be on the safe side, it’s worth it (to me) to spend 2-3x more on healthy food and “play it safe” as opposed to spending less money and being potentially being wrong and having worse longevity and health as a consequence.
+- if you assume that the higher quality, more expensive food provides you with more nutrients and fewer toxins (for the same amount of macronutrients/calories), then to be on the safe side, it’s worth it (to me) to spend 2-3x more on healthy food and “play it safe” as opposed to spending less money and potentially being wrong and having worse longevity and health as a consequence. It seems less likely that “natural food” could not be worse for you than pesticide sprayed or industrially processed food.
 - If you assume that higher quality, more expensive food provides you with more nutrients for the same number of calories, then 
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
