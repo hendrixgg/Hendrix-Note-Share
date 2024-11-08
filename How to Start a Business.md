@@ -744,3 +744,86 @@ How to maintain conviction in not conventionally accepted customer discovery met
 How did you come up with the entrepreneur pattern
 - 
 
+
+## Queen’s University Entrepreneurship Expo
+File: [[Queen’s University Entrepreneurship Expo Fall 2024]] 
+
+These pitch “contests” 
+
+Pitch contest
+
+BRIGID methadone pump (like insulin pump)
+- make sure to include contact info at the end of the the slide
+- Could measure adrenaline and cortisol also to correlate with crimes
+- Make sure to consider the storage tank being stolen or otherwise
+
+
+DJGS Automated Farming
+- Liam Doris
+- one guy grew up on a farm picking corn
+- Labour shortage in farming
+- Tractor sized agriculture robots
+- Proposed using hydrogen fuel cells for power
+- AI weeding and non-GMO pesticides 
+- Different modules to do different tasks 
+- Foldable robots so you can transport them to different fields of a farm
+- Comments
+- could do software as a service for the different modes of operations 
+- Phases in the product development and rollout
+- Joe Dales Agricultural Accelerator 
+
+Synaptic Mentorship App
+- like a tinder dating app for finding mentors
+- you can email the platform to get your profile going
+- Could partner with job placement programs
+- look into 10,000 coffees
+- could organize this as communities or schools and alumni networks and organizations so that groups of people have ideas in common
+- coul pivot to a sport coaching app, David Hayes said he would coach wind surfers for 250$ per month
+- Could apply this for job searching
+- Could apply this to professional networks
+
+
+Tutor.Ai. 
+- Rodrigo del aguila
+- Ashton
+- tutor matching 
+- Keep track of progress
+- Effort to manage tutoring relationships 
+- Tutoring landscape 
+	- Teacher
+	- Tutor company
+	- Feedback loop is only at the end of relationship 
+- initial customers
+	- Mathnasium
+	- Ygk tutors
+- Student would do a survey 
+- CRM tool for tutors and tutor groups
+- comments
+- Seriously consider AI tutors, ChatGPT is getting really good for certain topics 
+- tutoring for actors or with students with ADHD or people who aren’t able to learn using AI bots
+- how are you training your tutor matching algorithms, what data will you use?
+
+Vuna Technologies
+- Jesse Pound (girl)
+- Kenyan farmer cofounders she met online
+- 5th year mechanical engineering student 
+- Dealing with famine and agriculture
+- Africa agriculture is underdeveloped 
+- Smallholder Kenyan avocado farmers
+- Slide 1-2-3 had too much text on it
+- 1: Form groups of farmers to collaborate 
+- 2: Help with loans and micro-financing
+- 3: 
+- Spent the last 2 summers in kenya
+- running pilot project with 30 farmers
+- comments
+- Good that a lot of learning has been done so far
+- Have more conviction in your vision, don’t say “kinda hope” when you have a lot of good info
+- Really good info to hear that you’re already working 
+-  reach out to George Clooney foundation
+
+
+New ideas:
+- Personal CRM
+	- Make sure to call people on a regular basis to keep relationships going
+	- 
