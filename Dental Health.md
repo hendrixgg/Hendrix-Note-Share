@@ -7,6 +7,9 @@ priority:
 author1: "[[Hendrix Gryspeerdt]]"
 ---
 
+## When to clean your teeth after eating
+Perhaps wait 30-60 minutes until after you eat. Not 100% sure why you would wait, need more info.
+
 ## How Our Ancestors had WHITE TEETH with no Toothbrush? — They Used Chewing Sticks
 source: https://www.youtube.com/watch?v=KIlMpAbBG64
 
