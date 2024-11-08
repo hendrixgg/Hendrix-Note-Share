@@ -24,6 +24,7 @@ author: "[[Hendrix Gryspeerdt]]"
 - knows a lot about crypto, made a lot of money doing that
 - has a brother [[Nate Belmar]], who is running a new biohacking/fitness/health community on the [[Skool Platform]] called [[Anime Shreds]]
 - hour coaching call: 10 000 USD
+- Recent crypto info: https://youtu.be/x5PMo8p_QJURecent crypto info: 
 # Related files
 - [[Luke Belmar Datasets]]
 - [[Capital Club]]
