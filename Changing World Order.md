@@ -69,7 +69,7 @@ Governments spending more than they got in taxes.
 ### things that were new
 1. Countries not having enough money to pay debts even with 0% interest rates. Lots of money printing
 2. Big internal conflicts with politics
-3. External conflict with [[China]] rising and [[USA]] falling in power.
+3. External conflict with [[China]] rising and [[United States|USA]] falling in power.
 
 ### what is an order?
 Governing system for people dealing with each other.
@@ -78,7 +78,7 @@ Laws are internal orders. Perhaps even even civil wars.
 
 Treaties are for international order.
 
-Current world order is set by [[WW2]] where [[USA]] got USD as world reserve currency.
+Current world order is set by [[WW2]] where [[United States|USA]] got USD as world reserve currency.
 
 ### the Big Cycle
 Overview
