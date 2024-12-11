@@ -17,6 +17,17 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- foods [[Jesus Christ]] recommends https://m.youtube.com/watch?v=lfXBX8vCwmA
+	- Eggs
+	- Butter
+	- Honey
+	- Lamb
+	- Fish
+	- Salt
+	- Veal
+	- Figs
+	- Bread
+- Good chicken feed: https://m.youtube.com/shorts/gEBYuoUmJ3s
 - https://www.eatortoss.com/a-sprouted-
 - https://www.eatortoss.com/
 - [[Raw Milk]]
