@@ -1,1 +1,0 @@
-see [[Compound and Simple Interest#Simple Interest]]
