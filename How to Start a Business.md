@@ -18,6 +18,9 @@ Resource List:
 	- [The Lean Startup | Eric Ries | Talks at Google](https://youtube.com/watch?v=fEvKo90qBns)
 - [[The Lean Launchpad]]
 - Tools for Startups: https://steveblank.com/tools-and-blogs-for-entrepreneurs/#startup-tools
+- paul graham essays (founder of Y Combinator) https://paulgraham.com/articles.html
+- mentor platform: https://adplist.org/
+- new product launches: https://www.producthunt.com/
 
 Business Development (my idea):
 1. decide on [[Spiritual Holding Company]] (core values/mission that you wish to uphold, requires [[Mission Model Canvas]])

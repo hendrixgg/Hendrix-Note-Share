@@ -17,6 +17,8 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- autism: [[Healing the Symptoms Known as Autism - Second Edition -- Kerri Rivera - with Kimberly McDaniel && Daniel Bender -- 2014.pdf]]
+- eyes and light exposure: https://www.youtube.com/watch?v=a6gYuFpZSKw&t=333s
 - Lactobacillus Reuteri
     - https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/lactobacillus-reuteri
     - make some "yogurt" with this bateria using the recipe: 
