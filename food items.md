@@ -150,5 +150,5 @@ I'm guessing just get these for the extra calories if you find you are losing we
 - [[potato]]
 - [[pasta]]
 - [[oats]]?
-- [[bread]]? - [[Maximus Michael Gryspeerdt|Max]] said something about baking is not good, also gluten is not good for you
+- [[bread]]? - [[Maximus Gryspeerdt|Max]] said something about baking is not good, also gluten is not good for you
 - corn? Flour or otherwise? 

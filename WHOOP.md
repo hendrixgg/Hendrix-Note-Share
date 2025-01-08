@@ -27,4 +27,13 @@ decision: yes
 - it's easier to maintain good habits
     - because it tracks how you are doing
     - and you can know how you are doing
-- 
+
+## Issues
+- default band keeps giving me a rash, possible causes:
+	- Material
+	- Letting it be wet after a shower/sweating
+		- I’m thinking it’s a combination of this and not cleaning and the soap inside the watch band. I’m going to take off the watch during a shower, and ensure that it is cleaned thoroughly once per week.
+		- If this doesn’t work, then I am getting a new silicone watch band which costs 118 $ with tax and shipping. Maybe I can buy a 3rd party watch band for cheaper?
+	- Not cleaning enough
+	- Soap chemicals residing inside the watch band after shower
+	- Info: https://m.youtube.com/watch?v=-0RMvck92Sw and https://search.brave.com/search?q=how+to+stop+rash+from+wristwatch&source=ios&summary=1&conversation=0a546aa412abafb3684554
