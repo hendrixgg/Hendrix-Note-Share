@@ -37,3 +37,4 @@ decision: yes
 	- Not cleaning enough
 	- Soap chemicals residing inside the watch band after shower
 	- Info: https://m.youtube.com/watch?v=-0RMvck92Sw and https://search.brave.com/search?q=how+to+stop+rash+from+wristwatch&source=ios&summary=1&conversation=0a546aa412abafb3684554
+- Solution: just put watch band in washing machine when you do laundry. 
