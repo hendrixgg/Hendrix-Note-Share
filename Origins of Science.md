@@ -8,6 +8,11 @@ source page:
 priority: 
 author:
 ---
+# How science can be corrupted or go wrong
+https://wmbriggs.substack.com/p/why-science-is-broken-hillsdale-speech
+- stuff to do with just low rigor in research
+
+
 # source 1
 https://youtube.com/watch?v=JMTWnd5BhxI
 
