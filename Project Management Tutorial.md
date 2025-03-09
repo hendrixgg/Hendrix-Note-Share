@@ -33,7 +33,7 @@ During this phase, there are negotiations taking place to determine the scope, b
 
 Outcome of this phase is a signed contract from the business sponsor to enable initiation of the project.
 
-## Risk Management Process 
+## [[Risk Management]] Process 
 This starts upon first contact with the business sponsor of the project.
 
 ![[Pasted image 20240604145656.png]]
