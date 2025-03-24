@@ -8,6 +8,8 @@ priority:
 author: "[[Hendrix Gryspeerdt]]"
 ---
 Resource List:
+- system dynamics modeling
+- important questions your business plan should answer [[(APSC221) Economics & Business Practices in Engineering - 2022 version.pdf#page=588&selection=51,0,51,61|(APSC221) Economics & Business Practices in Engineering - 2022 version, page 588]]
 - book: [[The Four Steps to the Epiphany]] (by [[Steve Blank]]), replaced by book:  [[The Startup Owner’s Manual]]
 	- Taken to the next level: [Steve Blank, Evidence-based Entrepreneurship, The Lean Startup Conference 2013 - 12/10/13](https://m.youtube.com/watch?v=zjvEanpktEo)
 - [[Business Model Generation]] by [[Alexander Osterwalder]]
