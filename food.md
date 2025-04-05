@@ -13,7 +13,8 @@ author: "[[Hendrix Gryspeerdt]]"
 - [[farms]]
 - [[food shops]]
 - [[restaurants]]
-- 
+
+[[food storage]]
 
 
 find good food sources:
