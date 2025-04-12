@@ -11,6 +11,44 @@ author: "[[Hendrix Gryspeerdt]]"
 ---
 # [[Project Management Tutorial]]
 
+## Basic project management process
+1. figure out project scope (what are all the things to do) (project dictionary)
+2. break down project scope into reasonable sized subtasks (work breakdown structure) 
+3. estimate duration to complete each subtask - (PERT Method $T_{Estimate}=\dfrac{T_{Optimistic} + 4T_{\text{Most Likely}} + T_{Pessimistic}}{6}$)
+4. determine dependencies between subtasks
+5. use critical path method to create project network diagram
+6. assign responsibilities and allocate resources
+7. put project into gantt chart to figure out timeline
+8. use kanban to keep track of smaller day-to-day subtasks
+9. update gantt chart and CPM times when you have new estimates
+
+## Project Management from [[ELEC390 - Principles of Design and Development|ELEC390]]
+Gantt charts, compared to other tools for project management, has its strengths and weaknesses.  
+A critical path method (CPM) chart is typically used first during the initial planning, and the Gantt chart and Kanban board are used for the remainder of the project. 
+Often, the Gantt chart is simultaneously used with the Kanban board at different scales: 
+the Kanban board denotes sub-tasks that work towards the completion of tasks on the Gantt chart and changes faster, 
+whereas the Gantt chart is re-evaluated at a slower pace (perhaps weekly). 
+In many cases, project management software includes both of these tools in a single product. 
+
+
+The usual steps in the project management process are as follows: 
+1. Identify all the major tasks involved in the project and estimate their durations.
+2. Determine dependencies between tasks and use a CPM chart to sketch the task relationships.
+3. Determine the critical path from the CPM chart. 
+4. Assign responsibilities from the tasks and allocate resources.
+5. Prepare a Gantt chart based on the dependencies from the CPM chart and the responsibilities determined above. 
+6. Use a Kanban to keep track of smaller, day-to-day sub-tasks that make up a task on the Gantt chart. 
+
+Once the charts are prepared, the project management work is not done. 
+The Gantt chart is a working document that evolves with the project and embodies the strategy that the team is using to complete the project. 
+It, and with the Kanban board, needs to be in a manageable and easy-to-update format, or it will soon become useless. 
+It is very important to understand that projects are fluid and that things will inevitably change as the project progresses. 
+
+Generally speaking, most novice project managers and designers are overly optimistic about the time required to complete work and often tend to fall behind schedule. 
+The Gantt chart and Kanban boards should be updated as things change to ensure that the project completion deadline can still be met such that all team members see and work on the appropriate tasks at the appropriate time. 
+If there is not enough time to finish the project as originally planned, adjustments to the project (such as changes to the project scope or deliverables) must be made for the remaining tasks. 
+One tool that might be helpful to prioritize tasks when resources are limited is Pareto analysis. 
+
 # Diagrams
 - [[Project Management Process.canvas|Project Management Process]]
     - [[Project Stakeholders]]

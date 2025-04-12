@@ -17,6 +17,9 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- get rid of poisons in your body due to dental issues:
+    - see youtube video: https://www.youtube.com/watch?v=OHN-JJO7HHw
+    - download `C:\Users\Hendrix\Videos\Video Downloads\Root Cause - The Health Effects of the Root Canal Procedure - FULL DOCUMENTARY.mp4`
 - autophagy: https://www.youtube.com/watch?v=9_74RuyIQPk
 	- Takeaway: the more physically fit you are (higher vo2 max) the more autophagy occurs during any period of fasting
 	- HIIT is better for improving VO2 max than zone 2 (lower hart rate training)eart rate training)
