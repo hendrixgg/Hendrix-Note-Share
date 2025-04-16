@@ -9,7 +9,7 @@ source page:
 priority: 
 author: "[[Hendrix Gryspeerdt]]"
 ---
-# [[Project Management Tutorial]]
+## [[Project Management Tutorial]]
 
 ## Basic project management process
 1. figure out project scope (what are all the things to do) (project dictionary)
@@ -49,9 +49,38 @@ The Gantt chart and Kanban boards should be updated as things change to ensure t
 If there is not enough time to finish the project as originally planned, adjustments to the project (such as changes to the project scope or deliverables) must be made for the remaining tasks. 
 One tool that might be helpful to prioritize tasks when resources are limited is Pareto analysis. 
 
+## How to Run Teams
+### Ideals for partnerships
+- Dependent relationships
+    - work so that people depend on you
+    - you also want to ensure that people believe that you depend on them so that they feel secure in working with you and that they don’t feel they will be replaced
+- Understand motivations and intentions of those around you
+    - Keep a list of the people that you work closely with and make sure that you always know their reasons for what they do
+    - this is less important for low level subordinates as long as you know what they want to do
+- don’t work with people who say “I don’t know what to do”
+    - If someone says “I don’t know what to do” and they don’t indicate any effort towards figuring out what to do, they are almost guaranteed to be more of a burden than a than a help in the long term
+    - this can be a bit more nuanced that this because they might not know how to or have the resources to figure out what to do, as long as this lack of resource is communicated it’s fine
+
+### Role Selection
+- list all the roles and allow people to select what they want to do
+    - make sure that you tell people that they can switch their role if they want to for any reason as long as they let you know so that you can plan accordingly
+- Ask person what they would do when encountering a problem or issue
+    - If they say “I don’t know, ask supervisor” they are essentially a toddler and need to be spoon-fed, not ideal
+    - if they say “I would figure out what to do to solve the issue” ask them what they would do more specifically, if they give a reasonable sounding answer
+
+### Planning
+- always know what needs to be done so that you can:
+    - explain to people what they need to be doing off the top of your head
+    - identify people who don’t know what to do
+    - make sure that what needs to get done is getting done
+
+## Project management Tips from [[Brett Knowles]]
+
+see notion notes on account h.gryspeerdt@queensu.ca 
+
 # Diagrams
-- [[Project Management Process.canvas|Project Management Process]]
-    - [[Project Stakeholders]]
+- [[Project Management Process.canvas|Project Management Process]] (incomplete)
+    - [[Project Stakeholders]] (incomplete)
 ## To consolidate 
 - on hendrixg10@gmail.com see “Agile Meetings”
 - Book: “Visualizing Project Management: Models and Frameworks for Mastering Complex Systems”
@@ -96,7 +125,7 @@ Whatever the frontline people are doing, I try and do at least a few times mysel
 - Have a desired future state [[Business Model]] or [[Mission Model]]. This is the prediction your L1 [[hypothesis]] is making.
 - figure out what has to change, actions to be taken, to go from current state to future state. This is your second [[hypothesis]]. “If we do this and this and this to the current state [[Business Process Model]], then we will result in the future State [[Business Process Model]].”
 
-# Related Documents - old stuff 
+# Related Documents 
 - Flowchart illustrating how to [[Organizing a High-Performance Team.canvas|Organize a High-Performance Team]] - does not work
 - For managing tasks: 
     - [[template-task-list_2024-01-18.xlsx]]
