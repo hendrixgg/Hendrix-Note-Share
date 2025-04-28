@@ -17,6 +17,8 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- beta-glucan found in oats and barley and other bile acid sequestrants have been shown to speed up excretion of PFAS toxic chemicals that typically have a half-life of multiple years in the body: https://m.youtube.com/watch?v=4BaX0_5KPHQ
+- how to get rid of brain fog: https://m.youtube.com/watch?v=SdMfuOz_-fw
 - get rid of poisons in your body due to dental issues:
     - see youtube video: https://www.youtube.com/watch?v=OHN-JJO7HHw
     - download `C:\Users\Hendrix\Videos\Video Downloads\Root Cause - The Health Effects of the Root Canal Procedure - FULL DOCUMENTARY.mp4`

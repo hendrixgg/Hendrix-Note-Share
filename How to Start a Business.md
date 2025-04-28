@@ -23,6 +23,8 @@ Resource List:
 - paul graham essays (founder of Y Combinator) https://paulgraham.com/articles.html
 - mentor platform: https://adplist.org/
 - new product launches: https://www.producthunt.com/
+- 6 Lessons from [[Joe Lonsdale]] https://m.youtube.com/watch?v=E7qzohsrciU. I took notes on #reMarkable 
+- Philosophy of successful entrepreneurs by [[Joe Lonsdale]]: https://m.youtube.com/watch?v=wQ-MuaD4txA
 
 Business Development (my idea):
 1. decide on [[Spiritual Holding Company]] (core values/mission that you wish to uphold, requires [[Mission Model Canvas]])
