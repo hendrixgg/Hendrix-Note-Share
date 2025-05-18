@@ -1,6 +1,4 @@
 ---
-quickshare-date: 2024-04-02 23:46:27
-quickshare-url: https://noteshare.space/note/cluj9ng58668701mwab6jbvzr#pNVJ8e2IdhqNccZAUgGhiSOCgyj75ai13v4gYjoq06s
 aliases:
   - Ted Talk on Brain and energy
   - Ted Talk on Connecting with People
@@ -16,9 +14,9 @@ speaker:
 
 
 core ideas:
-- ask people what is important to them - connection
-- identify possibility for that important thing happening - possibility
-- collaborate and make progress towards that goal - progress
+- know: ask people what is important to them - understand what they value
+- identify: potential for that important thing happening - identify potential sources of value
+- act: collaborate and make progress towards that goal - actualize potential value
 - these qualities of a relationship make people energized rather than depleted
 - my add-on: doing those three things makes your relationship into a ***master mind*** - where the whole (the partnership) becomes greater than the sum of the parts
 

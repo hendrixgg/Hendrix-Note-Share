@@ -20,7 +20,9 @@ author: "[[Hendrix Gryspeerdt]]"
 find good food sources:
 - https://www.eatwild.com/
 - https://www.realmilk.com/
+- https://limestonecreamery.ca/
 - https://nuthut.ca
+	- Expensive
     - see email
         - subject: "Fwd: Cacao nibs"
         - to: hendrixg10@gmail.com
@@ -30,6 +32,12 @@ find good food sources:
 - photos of food items on cellphone
 - kefir at sweet potato in glass jar
 - https://fredsbread.ca
+- Kingston: Juniper Cafe
+- Kingston: Downtown Market Square friday morning
+- Kingston: Hockey Rink Farmer's Market
+- Cow orders: 
+	- Doublejay farms kingston
+	- https://saltofkingston.com/
 
 ## To consolidate 
 - Hope Eco Farms Eggs from Aylmer Ontario
