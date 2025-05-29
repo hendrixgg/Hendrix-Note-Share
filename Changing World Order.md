@@ -78,7 +78,7 @@ Laws are internal orders. Perhaps even even civil wars.
 
 Treaties are for international order.
 
-Current world order is set by [[WW2]] where [[United States|USA]] got USD as world reserve currency.
+Current world order is set by [[World War Two]] where [[United States|USA]] got USD as world reserve currency.
 
 ### the Big Cycle
 Overview

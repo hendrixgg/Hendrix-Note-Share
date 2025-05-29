@@ -20,7 +20,7 @@ author: "[[Hendrix Gryspeerdt]]"
 find good food sources:
 - https://www.eatwild.com/
 - https://www.realmilk.com/
-- https://limestonecreamery.ca/
+- https://limestonecreamery.ca/ [[Limestone Creamery]]
 - https://nuthut.ca
 	- Expensive
     - see email

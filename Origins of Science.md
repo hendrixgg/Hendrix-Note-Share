@@ -9,6 +9,12 @@ priority:
 author:
 ---
 # How science can be corrupted or go wrong
+Reproducibility crisis: https://www.wmbriggs.com/post/56376/
+- reproducibility of many medical studies ranged from 15 to 45%, which is quite terrible
+- main issue here is that they are using flawed statistical methods, and the formal fallacy around reasoning using P-values: 
+    - https://wmbriggs.substack.com/p/a-simple-argument-proving-you-must
+    - https://www.nas.org/academic-questions/38/1/let-go-your-wee-p
+
 https://wmbriggs.substack.com/p/why-science-is-broken-hillsdale-speech
 - stuff to do with just low rigor in research
 

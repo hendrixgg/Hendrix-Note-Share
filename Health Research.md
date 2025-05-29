@@ -17,6 +17,27 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- Nate Belmar Podcast May 10 2025: https://m.youtube.com/watch?v=VL5Mkgqwun0
+	- world experience shows that as science has advanced, American people have gotten less healthy.
+	- Cold showers in the morning: burns fat by increasing metabolism, boost dopamine more than narcotics, make you feel good, good blood flow
+	- fasting: recycles the cells in the body, allows the body to heal itself
+	- Stretching in the morning is key for mobility
+	- Walking: after meal, while fasting, on grass
+	- Progressive overload: once you do one set till failure, wait a few more seconds of rest and do more reps, or lower the weight and do more reps, Mike Mentzer technique is the best: you get more work done and train the muscles better, you save time
+	- No way is the way: use different training techniques: calisthenics, elastic bands, free weights, machines, cardio. You train one way for a few months, then try another way, and come back and you might be able to lift more weight.
+	- circadian rhythm, sun and night cycles: sunrise: stretch, breathwork, cold shower. Bike to work, bike home at 11:30am, break fast: small amount of apple cider vinegar to start, eat 6eggs, kimchi, avocado, 15minutes later shot of olive oil.
+	- to shred, eating before workout helped. To bulk, eating after workout helps. (For Justin particularly)
+	- High quality sleeping is the time most restoration and healing takes place
+	- black seed oil, oregano oil, take this before sleep, helps brain recovery. Slows down rate of brain decay, almost recovers and reverses it.
+	- Some want all the details and the info and the specifics, so they can distract themselves from taking action. You only need the basics to start.
+	- Five simple things: stretch, cold shower (or at least face in cold water), walk after each meal, fast, get good sleep
+	- Decompress the spine
+	- Stretch the opposite side of what you are training
+	- People are carb dependent. If you fast for 24 hours, then eat fat as you break your fast, take a shot of olive oil, you stomach will vacuum that up right away.
+	- Bad stuff: sugar (a lot), paint (dyes) in food, seed oils, patent of 5G towers (ask AI what a powerful government would do to control this tech), radiation, media, blue light. Covid-19 vaccine
+	- start with the basics, Control what you can control, work to understand and work with what you can’t control
+	- If you can take a cold shower right away, there won’t be anything else you can’t bring yourself to do. It’s about the way you feel afterwards.
+	- Stretch and be able to do different movements 
 - beta-glucan found in oats and barley and other bile acid sequestrants have been shown to speed up excretion of PFAS toxic chemicals that typically have a half-life of multiple years in the body: https://m.youtube.com/watch?v=4BaX0_5KPHQ
 - how to get rid of brain fog: https://m.youtube.com/watch?v=SdMfuOz_-fw
 - get rid of poisons in your body due to dental issues:
@@ -54,7 +75,7 @@ Why want “healthy” or “high quality foods“:
 - [[Improve Facial Bone Structure]]
 - Toxins in vegetables: https://youtu.be/oLrhvM-AXmE
 - [[Paul Saladino]] Peroxidation point for cooking oils
-- [Why everybody should fast - Fasting science](https://www.youtube.com/watch?v=weVDy7EkQHw) ([[Youtube]] video)
+- [Why everybody should fast - Fasting science](https://www.youtube.com/watch?v=weVDy7EkQHw) ([[YouTube]] video)
 - interview to add to [[Calley Means]] (https://m.youtube.com/watch?v=ImvX3avAlM4)
 - [[Allison Gryspeerdt|Mom]]’s high school friend (see email to hendrixg10@gmail.com): 
 	- [https://drbenkim.com/?fbclid=IwZXh0bgNhZW0CMTAAAR26JNri6GfElpAybpJhz6xhrec-E023ItkwRlqOO4twK_o9vugWoobKNdw_aem_iMoSmdKtGb7e5A6hTzrthw](https://drbenkim.com/?fbclid=IwZXh0bgNhZW0CMTAAAR26JNri6GfElpAybpJhz6xhrec-E023ItkwRlqOO4twK_o9vugWoobKNdw_aem_iMoSmdKtGb7e5A6hTzrthw)
