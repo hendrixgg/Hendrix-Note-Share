@@ -28,6 +28,7 @@ author: "[[Hendrix Gryspeerdt]]"
 # Related files
 - [[Luke Belmar Datasets]]
 - [[Capital Club]]
+- [[E-Commerce Society]] https://www.instagram.com/p/CD4VytZHPyA/
 - Recent [[Telegram]] dataset each video is about 60 minutes
     - https://youtu.be/3msdIczCtjA or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Edward Bernays- The Century of Self (part 1).mp4"
     - https://youtu.be/RD0XCZu57ww or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Luke Belmar - dataset videos/The Century of the Self - 02 - The Engineering of Consent.mp4"
