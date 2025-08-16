@@ -11,6 +11,9 @@ author:
 ---
 How to stick to your schedule:
 - [Ditch Your To-Do List and Do This Instead | Sam Corcos | The Tim Ferriss Show](https://youtu.be/UneF4tCVHFk?si=tHnEZPyBkbXT8DeW)
+
+
+
 ## 5 Simple habits to save 5-11 hours per week
 source1: https://www.youtube.com/watch?v=lm7Dz8qH5M4 (first 4 habits)
 source2: https://www.youtube.com/watch?v=WbsrT6rieDs (last 5th habit)

@@ -1,10 +1,12 @@
 ---
-aliases:
-  - Kingston
+aliases: 
 tags: 
 source: 
 source date: 
 priority: 
 author1: "[[Hendrix Gryspeerdt]]"
 ---
-#to/doc 
+
+author: [[Matthew Lysiak]]
+
+website: https://thesaifhouse.com/ffsample

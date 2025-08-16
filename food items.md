@@ -23,6 +23,9 @@ Properties:
 - purchase location (farm/restaurant/shop)
 - Date updated (date purchased or confirmed availability)
 
+Desert or treat items:
+- chocolate ice cream recipe with no added sugar: https://m.youtube.com/shorts/WleH4_j80-A
+
 list of healthy items primarily sourced from [[Minding your mitochondria - Tedx Talk]]
 
 ## Don’t buy
@@ -109,7 +112,7 @@ I don't know why this is separate, but it was mentioned separately in the ted ta
 - 
 ## Fruits
 wikipedia: https://en.wikipedia.org/wiki/List_of_culinary_fruits
-
+- jackfruit: jackfruit: https://m.youtube.com/watch?v=BU4QxpDGEvs
 - clementines
 - apples
 - pears

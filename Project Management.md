@@ -12,6 +12,7 @@ author: "[[Hendrix Gryspeerdt]]"
 ## [[Project Management Tutorial]]
 
 ## Basic project management process
+Put everything on a [project canvas](https://projectcanvas.dk/).
 1. figure out project scope (what are all the things to do) (project dictionary)
 2. break down project scope into reasonable sized subtasks (work breakdown structure) 
 3. estimate duration to complete each subtask - (PERT Method $T_{Estimate}=\dfrac{T_{Optimistic} + 4T_{\text{Most Likely}} + T_{Pessimistic}}{6}$)

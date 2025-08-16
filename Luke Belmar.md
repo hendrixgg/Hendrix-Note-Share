@@ -29,8 +29,12 @@ author: "[[Hendrix Gryspeerdt]]"
 - [[Luke Belmar Datasets]]
 - [[Capital Club]]
 - [[E-Commerce Society]] https://www.instagram.com/p/CD4VytZHPyA/
-- Recent [[Telegram]] dataset each video is about 60 minutes
+- Recent [[Telegram App]] dataset each video is about 60 minutes
     - https://youtu.be/3msdIczCtjA or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Edward Bernays- The Century of Self (part 1).mp4"
     - https://youtu.be/RD0XCZu57ww or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Luke Belmar - dataset videos/The Century of the Self - 02 - The Engineering of Consent.mp4"
     - https://youtu.be/HDrmsvdXqdc or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Luke Belmar - dataset videos/The Century of the Self - 03 - There is Policeman Inside all our Heads, He Must Be Destroyed.mp4"
     - https://youtu.be/YVAbvL4mHjw  or download: "C:/Users/Hendrix/Videos/4K Video Downloader/Luke Belmar - dataset videos/The Century of the Self - 04 - Eight People Sipping Wine.mp4"
+
+---
+Podcast [LUKE BELMAR: From Broke To $50 Million | Crypto Predictions | Truth About God, Bible & The Matrix](https://m.youtube.com/watch?v=hbTo677U-LQ)
+

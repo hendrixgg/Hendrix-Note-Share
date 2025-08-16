@@ -17,6 +17,19 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- impact of electro-magnetic fields on the body:
+	- [[how to protect yourself from EMF radiation]]
+- read book [[Fiat Food - Why Inflation Destroyed Our Health and How Bitcoin Fixes It - Book]]
+- something in American Flour has inflammatory/allergenic stuff either as an additive or a result from processing, but flour from Italy and other world locations with just a single ingredient “wheat” is the best https://m.youtube.com/watch?v=ROeJd2TvOvY
+- stevia acts anti-fertility agent, see email from seed oil scout to hendrixg1@gmai.com
+- Glyphosate studies on cancer causing effects, see email from seed oil scout to hendrixg1@gmail.com
+- low quality beef:
+	- https://m.youtube.com/watch?v=fgYcVR7YBBQ
+- How to stop smoking cigarettes:
+	- https://m.youtube.com/shorts/y0ZIbaXgf0Q a book that helped this guy stop smoking after 45 years. “The Easy Way to Stop Smoking” by Alan Carr.
+- water supply
+	- Augustus Doricko is the founder and CEO of Rainmaker, a cloud seeding company https://x.com/lukebelmar/status/1932831180350513458?s=46
+	- full interview: https://m.youtube.com/watch?v=G9DPA_rKxgo
 - Nate Belmar Podcast May 10 2025: https://m.youtube.com/watch?v=VL5Mkgqwun0
 	- world experience shows that as science has advanced, American people have gotten less healthy.
 	- Cold showers in the morning: burns fat by increasing metabolism, boost dopamine more than narcotics, make you feel good, good blood flow
