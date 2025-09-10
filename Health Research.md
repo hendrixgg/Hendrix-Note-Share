@@ -11,6 +11,9 @@ aligned_to:
 ---
 [[Health Research Kanban]]
 
+hygiene:
+- care for hair and nails: https://archive.org/details/Careofth1951 by [[Encyclopedia Britannica Films]]
+
 Why want “healthy” or “high quality foods“: 
 - if you assume that the higher quality, more expensive food provides you with more nutrients and fewer toxins (for the same amount of macronutrients/calories), then to be on the safe side, it’s worth it (to me) to spend 2-3x more on healthy food and “play it safe” as opposed to spending less money and potentially being wrong and having worse longevity and health as a consequence. It seems less likely that “natural food” could not be worse for you than pesticide sprayed or industrially processed food.
 - If you assume that higher quality, more expensive food provides you with more nutrients for the same number of calories, then 
