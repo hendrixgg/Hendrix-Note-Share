@@ -10,3 +10,14 @@ author1: "[[Hendrix Gryspeerdt]]"
 restaurants/ready-to-eat food sources in [[Kingston Ontario]]:
 - Juniper Cafe
 - Downtown Market Square friday morning
+- The Duke
+	- Liver steak
+- Go Italian
+	- West Kingston 
+- Gangnam style
+- Tahinis 
+- Mesa Fresca
+	- Not too cheap but good
+- Otter creek kitchen
+	- Burgers
+	- pot pies Grocery delivery from limestone 

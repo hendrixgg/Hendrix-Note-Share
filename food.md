@@ -16,6 +16,8 @@ author: "[[Hendrix Gryspeerdt]]"
 
 [[food storage]]
 
+[[food preparation]]
+- [[home kitchen]]
 
 find good food sources:
 - https://www.eatwild.com/
