@@ -7,6 +7,20 @@ priority:
 author1: "[[Hendrix Gryspeerdt]]"
 ---
 
+## teeth cleaning
+source: https://www.youtube.com/watch?v=y7g1gKyzL94
+1. 1/2 teaspoon of 3% concentration food grad hydrogen peroxide
+2. 1/2 teaspoon of baking soda
+3. 3 drops of clove oil
+4. 1/2 teaspoon of Microcrystalline Hydroxyapatite powder
+5. 3 teaspoons of water
+
+extra: 
+- chew gum that has good bacteria to introduce back to mouth.
+- eat 100% grass fed butter
+
+
+
 ## When to clean your teeth after eating
 Perhaps wait 30-60 minutes until after you eat. Not 100% sure why you would wait, need more info.
 

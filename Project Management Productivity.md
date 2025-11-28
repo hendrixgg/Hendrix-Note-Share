@@ -9,9 +9,63 @@ source page:
 priority: 
 author:
 ---
-How to stick to your schedule:
+cHow to stick to your schedule:
 - [Ditch Your To-Do List and Do This Instead | Sam Corcos | The Tim Ferriss Show](https://youtu.be/UneF4tCVHFk?si=tHnEZPyBkbXT8DeW)
 
+## 7 Steps to Stop Laziness
+Video by [[Impact Christian Ministries]]: https://m.youtube.com/watch?v=HMP462k4LkQ.
+
+“Once you learn how to die, you learn how to live.” Once you realize you are going to die’s soon, you start spending your final moments doing things that matter. What if you can learn how to do that now while you are alive?
+
+If you were on your death bed, there are probably a few things you do today that you wouldn’t wish you did more of, and there are probably a few things you wish you did more of that you aren’t doing much of today.
+
+Seven steps:
+1. **Find the root of your laziness.**   
+Luke 6:43-45, Jesus speaking, “For a good tree does not build bad fruit, nor does a bad tree bear good fruit. For every tree is known by its fruit. For men do not gather figs from thorns, nor do they gather grapes from a bramble bush. A good man out of the good treasure of his heart brings forth good; and an evil man out of the evil treasure of his heart brings forth evil. For out of the abundance of the heart, his mouth speaks.”  
+Jesus is teaching many people that people are like trees. The fruit that they bring forth is a result of their source of energy and nutrients coming from their roots. So if you are bringing forth bad fruit, look at the root and find out what the issue is.  
+When do you get lazy? Ask yourself. For example: “when you make yourself so busy that when you are done you are so tired that all you want to do is be lazy.” “When you have something difficult you need to do, in effort to avoid that work, you do something that you want to do.”   
+Things that I do: “I have difficult things to do, so I am wanting to avoid those things in unproductive ways. Perhaps I will work on an assignment that is easy but is less important or due much later in the future.” “I have not much structure in my schedules, so I get overloaded constantly scheduling instead of just executing, which reduces my ability to work on what I want to work on.”
+2. **Tear down altars in your life**.  
+2 Chronicles 14:2-5, “Asa did what was good and right in the eyes of the LORD his God, for he removed the altars of the foreign gods and the high places, and broke down the sacred pillars and cut down the wooden images. He commanded Judah to seek the LORD God of their fathers, and to observe the law and the commandment. He also removed the high places and the incense altars from all the cities of Judah, and the kingdom was quiet under him.”  
+This was King Asa tearing down the altars of the false Gods.  
+So when you find what is in your life at the root of your laziness, pick it out and be rid of it for ever.  
+In today’s cultures, these idols are not wooden or metal figures, but cellphones, games, people. Today, people give hours of their time, lots of money, and their attention and energy, all towards things that don’t really help them.   
+Examples: you spend a lot of time on your phone or social media or videos. (2025-11-18, So for me that is with watching YouTube videos on phone or laptop). To fix this either get rid of the devices, or set limits with a passcode that you give to a trusted friend.  
+It can also be eating food (so for me I spend a lot of time eating more food far beyond the point of satiating). To avoid getting sucked into video games, consider your whole life like a video game and level up your real character, only play some and use it to connect with friends.
+3. **Make good friends**.  
+Joshua 2:24, “And they said to Joshua, ‘Truly the LORD has delivered all the land into our hands, for indeed all the inhabitants of the country are faint hearted because of us.”   
+Your activities with friends who are productive and disciplined people, will encourage you to be productive and disciplined.  The converse is also true, as 1 Corinthians 15:33 states “Evil company corrupts good habits.”  Therefore avoid spending time with people who are lazy and undisciplined.  
+4. **Call sin out**.   
+Ephesians 5:11, “And have no fellowship with the unfruitful works of darkness, but rather expose them.”  
+Go to your friends for accountability, help you call out your sin. To call it out. Confess your sins to other believers. Be intentional and serious about getting rid of sin.  
+For example, something you could do is to call or text a friend that you are not doing well and perhaps to do something together.  
+5. **Make God your God**.   
+Mark 12:30, Jesus speaking, “‘And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment.”  
+Jesus is speaking to scribes here. Remember that in step 2 the objective was to tear down alters. You put your strength into the love of God to accomplish this. Direct your attention not to the altars, but the IDOLS.  
+Who or what are you treating as an idol? Yourself? (Confort, relax, pleasure, entertainment). When you are lazy and all that you want to do is serve yourself, remember that Jesus died for me, and that He is the LORD of my life.  
+Perhaps go on a prayer walk, go outside, no devices/distractions.
+6. **Learn to Start Small**.
+Galatians 5:16, “I say then: Walk in the spirit, and you shall not fulfill the lust of the flesh.”  
+When you walk in the spirit, you don’t do what the lust of the flesh wants to. To combat laziness is to combat the spirit. To combat it is to walk. Literally WALK. So go and walk outside or at least on a treadmill with no distractions.  
+When it says to “walk”, it may also mean to find ways that are easy and simple to follow God. So do a walk in prayer. Make it easy.   
+When you read, just read until one thing stands out, then write ~3 sentences about what you read and how you can apply it in your life that day.   
+Make your relationship with God a walk. Walk in the spirit. 
+7. **Find your calling**.  
+Ephesians 2:10, “For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.”  
+Paul is telling the church that we were made as tools of God to do good things.   
+Look at the work God has for you, and then coming along side God to get it done.  
+If you know Jesus died for your sins, then there are good works planned for you. Exciting Plans! That will require all of you.  
+So grow and have a heart for God, and to serve His people with a heart that wants to help.
+
+
+Summary 7 steps:
+1. Find the root of your laziness
+2. Tear down alters in your life
+3. Make good friends
+4. Call sin out
+5. Make God your God
+6. Learn to start small
+7. Find your calling
 
 
 ## 5 Simple habits to save 5-11 hours per week

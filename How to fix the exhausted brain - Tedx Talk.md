@@ -6,7 +6,7 @@ tags:
   - ted-talk
   - business
   - psychology
-source: https://youtu.be/XOU2ubWkoPw?si=ycZ_6YA7XOgzsh-e
+source: https://youtu.be/XOU2ubWkoPw
 author: "[[Hendrix Gryspeerdt]]"
 ---
 speaker:

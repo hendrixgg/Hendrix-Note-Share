@@ -20,6 +20,13 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- [[medical care]]
+- sickness care
+	- https://m.youtube.com/shorts/-6AQ_jSaI0I
+	- Let diced onions ferment in honey, then filter out the syrup
+	- Drink the syrup at the first sign of a cold
+- earthing
+	- https://megafoundation.substack.com/p/earthing?utm_source=substack&utm_campaign=posts-open-in-app&utm_medium=email&r=5pz2i2&triedRedirect=true
 - impact of electro-magnetic fields on the body:
 	- [[how to protect yourself from EMF radiation]]
 - read book [[Fiat Food - Why Inflation Destroyed Our Health and How Bitcoin Fixes It - Book]]
