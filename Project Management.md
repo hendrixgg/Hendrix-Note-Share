@@ -127,9 +127,12 @@ Whatever the frontline people are doing, I try and do at least a few times mysel
 - figure out what has to change, actions to be taken, to go from current state to future state. This is your second [[hypothesis]]. “If we do this and this and this to the current state [[Business Process Model]], then we will result in the future State [[Business Process Model]].”
 
 # Related Documents 
+- for individuals: [[self organization]]
 - Flowchart illustrating how to [[Organizing a High-Performance Team.canvas|Organize a High-Performance Team]] - does not work
 - For managing tasks: 
-    - [[template-task-list_2024-01-18.xlsx]]
+    - you always work on the first incomplete task with the earliest Target Finish (or equivalently, target start), if this order doesn't make sense in terms of prioritization, then change the Target Finish times. If there is a larger task that has a smaller item to make progress on earlier on, then break that larger task into smaller components, with urgent components having earlier Target Finish and less urgent components having later target finishes.
+    - [[template-group-task-list_2024-01-18.xlsx]]
+    - [[template-individual-task-list_2026-01-19.xlsx]]
     - [[RACI Model]]
 - For planning meetings (Agendas): [[template-meeting-agenda_2024-01-18.xlsx]]
 - Example of Team/Company Strategies:

@@ -20,6 +20,25 @@ Why want “healthy” or “high quality foods“:
 	- if you eat the same amount of calories, you will gain more nutrients from the high quality food and be healthier.
 	- If you eat the same number of nutrients, then you have to eat more calories of the less nutrient dense food.  This means your body will have to metabolize more calories, which leads to less longevity (need source).
 # To Incorporate
+- [New Study: Oats Detox Forever Chemicals](https://m.youtube.com/watch?v=4BaX0_5KPHQ) A look at three recent studies that make a strong case that oats and oatmeal detox PFAS, known as forever chemicals, from your body.
+- [Neuroscientist Reveals How to Repair Gut Health without Probiotics - Dr. Sherr](https://m.youtube.com/watch?v=gJ1UmNBlGp0)
+- remove microplastics 
+	- [We Finally Know How To Detox Microplastics From The Body](https://m.youtube.com/watch?v=-LIiF_weoto)
+	- [These 3 Things Help Excrete Microplastics, BPA, & Phthalates | Rhonda Patrick](https://m.youtube.com/watch?v=KRj30mD-MNw)
+- [[Skin Care]]
+	- [Top 5 Diet Tips for Flawless, Youthful Skin](https://m.youtube.com/watch?v=QIrO32q4hqk)
+- how to check for magnesium deficiency: 
+	- first sign https://m.youtube.com/watch?v=EN9e99iRTCQ
+- [[Dry Sauna]] is good https://m.youtube.com/watch?v=kiUM92VDI1Y
+	- 3-5 times a week
+	- 15-20 minutes at a time
+	- Wear a sauna hat
+	- If male: put ice pack on testicles
+	- good to stack with exercise
+	- Don’t put water on rocks (dry sauna only)
+	- Drink extra electrolytes before and after sauna
+	- Shower after sauna to rinse off toxins
+- sodium consumption is not bad, but actually good, even for blood pressure:https://m.youtube.com/shorts/33ZwOmTqQgE
 - [[medical care]]
 - sickness care
 	- https://m.youtube.com/shorts/-6AQ_jSaI0I

@@ -1,11 +1,19 @@
 ---
-aliases: 
-tags: 
-source: 
-source date: 
-priority: 
+aliases:
+  - Teeth health
+tags:
+source:
+source date:
+priority:
 author1: "[[Hendrix Gryspeerdt]]"
 ---
+
+Other stuff:
+- [Skip Dental Cleanings](https://m.youtube.com/watch?v=NPdPz8nAuwU) 11 minutes video 
+- [How To Reverse a Cavity at Home | Cure Tooth Decay](https://m.youtube.com/watch?v=4wlRM-YgRQ8) 19 minutes video 
+- [The Surprising Foods that Heal Teeth (Plus what Damages Them)](https://m.youtube.com/watch?v=mKWDaUjEORs)
+- [Fix The Microbiome: #1 Oral Care Routine To Fix Your Mouth & Disease (Dr Burhenne)](https://m.youtube.com/watch?v=jNrm-9sp-RQ) 1 hour 40 minutes podcast 
+- [The Hidden Cost of Lost Wisdom Teeth | Airway & Facial Growth Analysis](https://m.youtube.com/watch?v=05r6X1w11ro)
 
 ## teeth cleaning
 source: https://www.youtube.com/watch?v=y7g1gKyzL94

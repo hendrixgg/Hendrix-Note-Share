@@ -9,8 +9,51 @@ source page:
 priority: 
 author:
 ---
-cHow to stick to your schedule:
+How to stick to your schedule:
 - [Ditch Your To-Do List and Do This Instead | Sam Corcos | The Tim Ferriss Show](https://youtu.be/UneF4tCVHFk?si=tHnEZPyBkbXT8DeW)
+
+
+
+## Productivity from Elon Musk Emails
+First email:
+1. Meetings
+	1. Every meeting must have a purpose or problem to solve. Always have a meeting agenda.
+	2. Get rid of meetings unless you are certain they provide value to whole audience
+	3. Get rid of frequent meetings unless you are dealing with urgent matters. Drop frequency once urgency reduces.
+	4. Walk out or drop off a call as soon as you aren’t adding value. It’s not rude to leave, it’s rude to keep people and waste their time. 
+2. Don’t use acronyms or nonsense words for: objects, software, or processes (at Tesla). In general, anything that requires explanation inhibits communication. We don’t want people to have to memorize a glossary just to function.
+3. Communication should travel through the shortest path necessary to get the job done, not “chain of command”. If you try to enforce “chain of command” then you are probably fired.
+4. Increase signal to noise ratio
+5. Always allow common sense to override a company rule or convention
+
+Email 2:
+1. Everyone must spend minimum 40 hours per week in office where colleagues actually work. If you don’t show up, they assume you have resigned
+2. Surround yourself with people who are productive.
+3. Productive people are even more productive when surrounded by productive people.
+
+Email 3:
+1. Precision and Low tolerance requirements for the cybertruck.
+2. Sometimes to be super productive you have to be a perfectionist to be focused on your work.
+
+Email 4:
+1. This was a note to encourage people to push to deliver extra cars at end of year/quarter. They had a last minute shipment of cars produced to sell.
+2. They don’t do this anymore because they keep a more consistent schedule.
+
+Email 5:
+1. When working at DOGE, Please reply to this email with approximately 5 bullet points of what you accomplished last week and cc your manager.
+
+Email 6:
+1. To twitter team
+2. Team will need to be extremely hardcore. Long hours and high intensity. Transition to engineering focus.
+
+
+Overall tips:
+- track output
+- Remove barriers
+- Surround with productive people
+
+Fundamental tip: be Hardcore
+
 
 ## 7 Steps to Stop Laziness
 Video by [[Impact Christian Ministries]]: https://m.youtube.com/watch?v=HMP462k4LkQ.
