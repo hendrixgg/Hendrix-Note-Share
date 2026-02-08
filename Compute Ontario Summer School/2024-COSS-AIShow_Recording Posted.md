@@ -1,6 +1,0 @@
-[2024-COSS-AIShow](https://training.computeontario.ca/courses/course/view.php?id=72) » [Forums](https://training.computeontario.ca/courses/mod/forum/index.php?id=72) »[Announcements](https://training.computeontario.ca/courses/mod/forum/view.php?f=126) » [Recording Posted...](https://training.computeontario.ca/courses/mod/forum/discuss.php?d=277)
-
-|   |   |
-|---|---|
-|[![Paul Preney](https://ci3.googleusercontent.com/meips/ADKq_Nbs-KYn0SVOMcWh_abx7NSztNTyKzI-BhjzK-43H4lNJXvlXXFtldTO-ZTI9oyqUBxvh_kAJ2fEEQFoSnl0lebqpkzqKQhbTBtdfRaagyzMHRSS6owVUGuX490T67uSQZ2c7ofkyhWrK9dX1BkFhg=s0-d-e1-ft#https://training.computeontario.ca/courses/pluginfile.php/8977/user/icon/boost/f2?rev=115 "Paul Preney")](https://training.computeontario.ca/courses/user/view.php?id=8969&course=72)|Recording Posted...<br><br>by [Paul Preney](https://training.computeontario.ca/courses/user/view.php?id=8969&course=72) - Friday, 7 June 2024, 1:42 PM|
-||The [Recording: AI Showcase Session](https://training.computeontario.ca/courses/mod/page/view.php?id=1843 "Recording: AI Showcase Session")recording has been posted to the course web site.<br><br>[See this post in context](https://training.computeontario.ca/courses/mod/forum/discuss.php?d=277#p318)|
