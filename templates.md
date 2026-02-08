@@ -24,7 +24,7 @@ Templates:
         - [[Template Course Grades]]
             - [[Template Course Exam Details#Exams]] this lists the exams in the course.
             - I would do a similar thing for exams, for other types of deliverables such as Assignments, Lab Assignments, Projects, Online Quizzes, etc. It all depends on the course.
-    - [[Template Course Meetings]]
+    - [[Template Related Meetings]]
         - [[Template Meeting Notes]]
     - [[Template Course Exam Details]]
 
